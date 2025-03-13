@@ -1,1 +1,1 @@
-#This is my first project using CSS, where I practiced styling and learned the fundamentals of creating visually appealing web pages.
+# This is my first project using CSS, where I practiced styling and learned the fundamentals of creating visually appealing web pages.
